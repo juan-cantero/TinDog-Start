@@ -3,6 +3,7 @@
 
 #title {
     background-color: #ff4c68;
+    color: white;
 }
 
 h1 {
@@ -17,3 +18,55 @@ h1 {
     
 }
 
+.navbar {
+    padding:0 2rem 0 2.5rem;
+}
+
+.right-buttons {
+    margin-right: 0;
+}
+
+.navbar-brand {
+    font-family: 'ubuntu';
+    font-size: 2.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.8rem;
+    font-family: 'Tangerine';
+}
+
+.download-button {
+    margin: 5% 3% 0% 0%;
+}
+
+/* title image */
+
+.title-image {
+    width: 60%;
+    transform: rotate(20deg);
+}
+
+/* middle section */
+
+.middle-section-icons {
+    text-align: center;
+    padding: 5%;
+   
+}
+
+.middle-section-icons i,h3,p {
+    margin: 3% 0;
+}
+
+.icon {
+    color: indianred;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
