@@ -108,3 +108,21 @@ h2 {
    width: 15%;
    margin: 20px 20px 50px;
 }
+
+/* pricing */
+
+#pricing {
+    padding-top: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+#pricing p {
+    color: gray;
+}
+
+.card-container {
+    padding: 2%;
+}
